@@ -9,7 +9,7 @@ SRC = 	main.c \
 
 OBJ := $(SRC:%.c=%.o)
 
-CC = gcc
+CC = cc
 CCFLAGS = -Werror -Wall -Wextra -pthread
 
 all: $(NAME)
