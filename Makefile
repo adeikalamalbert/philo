@@ -5,7 +5,7 @@ SRC = 	main.c \
 		init.c \
 		loop.c \
 		loop_utils.c \
-		utils.c
+		exec_utils.c
 
 OBJ := $(SRC:%.c=%.o)
 
