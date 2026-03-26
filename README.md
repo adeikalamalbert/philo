@@ -10,7 +10,7 @@ The simulation involves:
 -   A number of philosophers sitting around a circular table.
 -   A large bowl of spaghetti that they share.
 -   A number of forks equal to the number of philosophers.
--   To eat, a philosopher must acquire two forks—the one on their left and the one on their right.
+-   To eat, a philosopher must acquire two forks : the one on their left and the one on their right.
 -   When a philosopher finishes eating, they release the forks and proceed to sleep. Upon waking, they begin to think.
 
 The simulation ends when a philosopher dies from starvation or when an optional meal count is reached
